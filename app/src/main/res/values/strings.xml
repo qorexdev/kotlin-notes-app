@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_note">Add note</string>
+    <string name="search_notes">Search notes</string>
+    <string name="no_notes">No notes yet. Tap + to create one.</string>
+    <string name="title">Title</string>
+    <string name="note_content">Start writing...</string>
+    <string name="color_label">Color label</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="pin">Pin</string>
+    <string name="pinned">Pinned</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="undo">Undo</string>
+    <string name="sort_by">Sort by</string>
+    <string name="sort_updated">Last updated</string>
+    <string name="sort_newest">Newest first</string>
+    <string name="sort_oldest">Oldest first</string>
+    <string name="color_default">Default</string>
+    <string name="color_red">Red</string>
+    <string name="color_orange">Orange</string>
+    <string name="color_yellow">Yellow</string>
+    <string name="color_green">Green</string>
+    <string name="color_blue">Blue</string>
+    <string name="color_purple">Purple</string>
+</resources>
